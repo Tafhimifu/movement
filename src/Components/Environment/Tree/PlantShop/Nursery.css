@@ -1,0 +1,36 @@
+.nur{
+    margin-top: 60px;
+    color: lightseagreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+.info{
+    margin-left: 20px; 
+    height: 100px;
+    width: 50px;
+    margin-top: 30px;
+
+}
+
+.crd{
+    width: 1000px;
+    margin-top: 65px;
+    background-color: cornsilk;
+    height: 250px;
+}
+
+.ctxt{
+    margin-top: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:seagreen;
+    text-align: center;
+    
+}
+.cimg{
+    padding-top: 50px;
+    padding-left: 20px;
+    width:500px;
+    height: 200px;
+}

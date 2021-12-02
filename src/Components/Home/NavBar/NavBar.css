@@ -1,0 +1,25 @@
+.logo {
+    height: 60px;
+    width: 170px;
+    
+    margin-bottom:2px;
+}
+.nav-link{
+    margin-top: 7px;
+    font-weight: 1000px;
+    margin-left: 50px;
+    margin-right: 18px;
+    
+    }
+.btn{
+        width: 100px;
+        height: 40px;
+        margin-left: 50px;
+        margin-top: 7px;
+        margin-right: 25px;
+        
+    }
+    .bar{
+        height: 80px;
+    }
+

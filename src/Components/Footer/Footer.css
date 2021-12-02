@@ -1,0 +1,17 @@
+.footer{
+    background-color: teal;
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 300px;
+    margin-top: 50px;
+}
+.icn{
+    height: 150px;
+    width:150px;
+    margin-top: 50px;
+    padding-right: 20px;
+}
+.links{
+    margin-top: 80px;
+}

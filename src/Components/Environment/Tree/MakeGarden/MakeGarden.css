@@ -1,0 +1,16 @@
+.garden{
+    margin-top: 100px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    color:rgb(207, 130, 29);
+}
+.garden-head{
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: lightgreen;
+    font-family: cursive;
+    font-weight: bolder;
+}
